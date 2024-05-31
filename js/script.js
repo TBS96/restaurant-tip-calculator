@@ -12,7 +12,7 @@ const calcTip = () => {
     const totalAmt = billAmt + tipAmt;
 
     document.getElementById('result').innerHTML = `
-    <p>Tip Amount: ₹ ${tipAmt.toFixed(2)}</p>
-    <p>Total Amount: ₹ ${totalAmt.toFixed(2)}</p>
+        <p>Tip Amount: ₹ ${tipAmt.toFixed(2)}</p>
+        <p>Total Amount: ₹ ${totalAmt.toFixed(2)}</p>
     `;
 }
