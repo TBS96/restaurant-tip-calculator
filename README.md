@@ -1,3 +1,5 @@
-# Restaurant Tip Calculator
+# DOM Mini Project - 8
 
-## src is currently wip.
+``` bash
+Restaurant Tip Calculator
+```
